@@ -1,0 +1,44 @@
+
+
+
+var filesCheck = function (fileStatus) {                                    //function to check if each file is corrupted 
+ if (fileStatus = corrupt) {
+  return "this file is corrupt"
+  file.disable                                             //not sure what corrupt files look like so this is very pseudocodey  
+  file.delete                                              //delete corrupted files 
+} 
+  else {                                                         //catching clean files and protecting them by changing pw 
+  if (fileLength = clean) 
+  return "this file is clean" 
+  file.changepw
+  
+  }
+}
+
+
+filesCheck(Files)                                                 //call function 
+
+confirm("I am authorized.");                                      //deter I don't know how to deter 
+var input = prompt("What's the password?")
+
+  if (password != "hamburgers")
+    {
+    console.log("you're an intruder! Go away!")
+    }
+  else 
+    {
+    console.log("welcome! You may enter this file") 
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
