@@ -1,0 +1,34 @@
+var Files []     //array with all my files in it 
+
+                                                            // not sure how to assign files to clean or corrupt here
+
+var filesCheck = function (file) {                                    //function to check if each file is corrupted 
+
+  for (file in Files) {
+   if (file = corrupt) {
+      return "this file is corrupt"
+      file.delete                                     
+                                                         //delete corrupted files 
+  } 
+      else {                                            //catching clean files and protecting them by changing pw 
+      if (file = clean) 
+      return "this file is clean" 
+      file.changepw
+    } 
+  }
+}
+
+
+filesCheck(Files)                                                 //call function 
+
+confirm("I am authorized.");                                      //deter I don't know how to deter 
+var input = prompt("What's the password?")
+
+  if (password != "hamburgers")
+    {
+    console.log("you're an intruder! Go away!")
+    }
+  else 
+    {
+    console.log("welcome! You may enter this file") 
+    }
