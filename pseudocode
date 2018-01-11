@@ -1,0 +1,14 @@
+
+
+
+
+1. access files 
+2. iterate through files 
+3. separate corrupt from clean files. 
+4. delete corrupt files. 
+5. heighten security on the clean files by file asking for new password immediately.
+If correct password, access granted. If incorrect, access denied. 
+
+
+
+
